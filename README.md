@@ -23,3 +23,7 @@ The animation includes a smooth **3D-like spin** of the top pill and **sequentia
 <img width="592" height="689" alt="Screenshot 2025-08-30 at 10 36 27 pm" src="https://github.com/user-attachments/assets/cf90af68-d232-4bb8-9643-adcdcbc25c68" />
 
 
+https://github.com/user-attachments/assets/e20d6705-9a76-44ef-8993-4df464c1ffdc
+
+
+
