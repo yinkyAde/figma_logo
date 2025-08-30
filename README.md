@@ -1,16 +1,25 @@
-# figma_logo
+# Animated Figma Logo in Flutter
 
-A new Flutter project.
+This project demonstrates how to **recreate and animate the Figma logo** in Flutter using only `CustomPainter` and `AnimationController`.  
+The animation includes a smooth **3D-like spin** of the top pill and **sequential fade-ins and fade-outs** of the other logo parts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- **Accurate Figma Logo** built with Flutter's `Canvas` and `RRect` primitives.
+- **3D Spin Effect** on the top pill (Row 1).
+- **Sequential Animations**:
+  - Row 2 Left (Purple half-pill)
+  - Row 2 Right (Blue circle)
+  - Row 3 (Green droplet)
+- **Looping Cycle** with smooth easing (`Curves.easeInOutCubic`).
+- Built entirely with Flutter — no images or assets.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+<img width="592" height="689" alt="Screenshot 2025-08-30 at 10 36 27 pm" src="https://github.com/user-attachments/assets/cf90af68-d232-4bb8-9643-adcdcbc25c68" />
+
+
